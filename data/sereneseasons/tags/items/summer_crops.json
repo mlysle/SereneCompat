@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+	"neapolitan:strawberry_pips",
+	"neapolitan:small_banana_frond",
+	"neapolitan:banana_frond",
+	"neapolitan:large_banana_frond",
+	"neapolitan:vanilla_pods",
+	"neapolitan:mint_sprout",
+	"neapolitan:adzuki_beans",
+	"delightful:salmonberry_pips"
+  ]
+}
